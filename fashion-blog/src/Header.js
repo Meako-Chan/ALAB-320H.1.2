@@ -8,12 +8,12 @@ function Header() {
       <h2 className="blog-subtitle">Better-Dressed People</h2>
       <nav className="header-nav">
         <ul aria-label="Main Navigation" role="navigation">
-          <li><a>Women's</a></li>
-          <li><a>Men's</a></li>
-          <li><a>On the Street</a></li>
-          <li><a>The Catwalk</a></li>
-          <li><a>Adwatch</a></li>
-          <li><a>About</a></li>
+          <li>Women's</li>
+          <li>Men's</li>
+          <li>On the Street</li>
+          <li>The Catwalk</li>
+          <li>Adwatch</li>
+          <li>About</li>
         </ul>
       </nav>
     </header>
